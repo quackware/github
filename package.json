@@ -1,0 +1,5 @@
+{
+  "name": "@quackware/github",
+  "description": "Deno code for working with the GitHub API",
+  "version": "0.0.1"
+}
